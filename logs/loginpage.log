@@ -1,0 +1,58 @@
+14:59:03.157 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+14:59:03.420 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\lavaws\Opencart\Mastertest.xml
+
+14:59:08.813 [main] INFO  testCases.TC_002_LoginTest - *** TC_002_Logintest started***
+14:59:08.965 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+14:59:09.204 [main] INFO  testCases.TC_002_LoginTest - clicked on login
+14:59:09.229 [main] DEBUG testCases.TC_002_LoginTest - test failed
+14:59:09.229 [main] ERROR testCases.TC_002_LoginTest - debug errors
+15:01:55.139 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+15:01:55.402 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\lavaws\Opencart\Mastertest.xml
+
+15:02:02.189 [main] INFO  testCases.TC_002_LoginTest - *** TC_002_Logintest started***
+15:02:05.559 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+15:02:06.368 [main] INFO  testCases.TC_002_LoginTest - clicked on login
+15:02:06.403 [main] DEBUG testCases.TC_002_LoginTest - test failed
+15:02:06.403 [main] ERROR testCases.TC_002_LoginTest - debug errors
+15:02:59.308 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\test-output\testng-failed.xml"
+15:02:59.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\lavaws\Opencart\test-output\testng-failed.xml
+
+15:03:06.392 [main] INFO  testCases.TC_002_LoginTest - *** TC_002_Logintest started***
+15:03:07.017 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+15:03:07.275 [main] INFO  testCases.TC_002_LoginTest - clicked on login
+15:03:07.371 [main] DEBUG testCases.TC_002_LoginTest - test failed
+15:03:07.371 [main] ERROR testCases.TC_002_LoginTest - debug errors
+15:05:34.481 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+15:05:34.723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\lavaws\Opencart\Mastertest.xml
+
+15:05:41.336 [main] INFO  testCases.TC_002_LoginTest - *** TC_002_Logintest started***
+15:05:41.794 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+15:05:42.088 [main] INFO  testCases.TC_002_LoginTest - clicked on login
+15:10:28.339 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+15:10:28.587 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\lavaws\Opencart\Mastertest.xml
+
+15:10:34.365 [main] INFO  testCases.TC_002_LoginTest - *** TC_002_Logintest started***
+15:10:34.623 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+15:10:34.887 [main] INFO  testCases.TC_002_LoginTest - clicked on login
+15:10:35.006 [main] INFO  testCases.TC_002_LoginTest - entered email
+15:10:35.104 [main] INFO  testCases.TC_002_LoginTest - entered password
+12:49:24.543 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+12:49:52.244 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+12:50:22.099 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+12:50:41.390 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+12:50:41.632 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\lavaws\Opencart\Mastertest.xml
+
+12:51:59.915 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+12:52:00.297 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\lavaws\Opencart\Mastertest.xml
+
+13:59:21.724 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\lavaws\Opencart\Mastertest.xml"
+13:59:22.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\lavaws\Opencart\Mastertest.xml
+
